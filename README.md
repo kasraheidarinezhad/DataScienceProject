@@ -1,3 +1,3 @@
-# Applied-Data-Science-Capstone
+## Applied Data Science Capstone
 ### Author
 #### Kasra Heidarinezhad
